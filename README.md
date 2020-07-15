@@ -1,1 +1,1 @@
-Supervised learning knon as deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. here i would upload my experience with different supervised learning techniques. 
+Supervised learning known as deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. here i would upload my experience with different supervised learning techniques. 
